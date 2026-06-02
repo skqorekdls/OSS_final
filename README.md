@@ -51,7 +51,7 @@ final-recommend-app/
 ### 1) 저장소 클론
 
 ```bash
-git clone [본인 GitHub Repository 주소]
+git clone https://github.com/skqorekdls/OSS_final.git
 cd final-recommend-app
 ```
 
